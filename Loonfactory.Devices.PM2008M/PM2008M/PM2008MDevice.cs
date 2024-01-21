@@ -1,6 +1,6 @@
 ﻿using System.Device.I2c;
 
-namespace Loonfactory.Devices.PM2008;
+namespace Loonfactory.Device.PM2008M;
 
 public class PM2008MDevice
 {

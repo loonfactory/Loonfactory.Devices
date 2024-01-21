@@ -1,4 +1,4 @@
-﻿namespace Loonfactory.Devices.PM2008;
+﻿namespace Loonfactory.Device.PM2008M;
 
 public enum PM2008MI2CCommand : byte
 {
